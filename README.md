@@ -8,7 +8,7 @@ Nilavu is a [Rails 4.2](http://guides.rubyonrails.org/) browser based user inter
 
 ## Features:
 
-* Launching Cloud Applications is a breeze in hybrid cloud (private - [OpenNebula] (http://opennebula.org), public - aws, gce, profitbricks, gogrid, hp) 
+* hello Cloud Applications is a breeze in hybrid cloud (private - [OpenNebula] (http://opennebula.org), public - aws, gce, profitbricks, gogrid, hp) 
 
 * Management of the launched apps/services  using [ruby api](https://github.com/megamsys/megam_api.git) which interfaces to
   [api server](https://github.com/megamsys/megam_gateway.git)
